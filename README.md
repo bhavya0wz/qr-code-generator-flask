@@ -2,7 +2,8 @@
 
 A minimal and elegant web application to generate QR codes from text or URLs — powered by **Flask** and **Python**.
 
-![QR Code Generator Screenshot](https://via.placeholder.com/800x400.png?text=QR+Code+Generator+App+Preview) <!-- Optional: Replace with your actual screenshot -->
+![QR Code Generator Screenshot](<img width="903" height="825" alt="image" src="https://github.com/user-attachments/assets/940af8b3-3a2e-4f2f-a55e-3a11f2e22b6a" />
+) <!-- Optional: Replace with your actual screenshot -->
 
 ## 🚀 Features
 
